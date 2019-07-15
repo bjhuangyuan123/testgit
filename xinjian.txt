@@ -14,3 +14,4 @@ func main(){
    c.szSvrID[0]=C.char('1')
    fmt.Println(c.szSvrID[0])
 }
+11
